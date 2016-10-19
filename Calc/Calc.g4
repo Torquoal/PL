@@ -34,8 +34,10 @@ ASSN	:	'=' ;
 PLUS	:	'+' ;
 MINUS	:	'-' ;
 TIMES	:	'*' ;
+DIV	:	'/' ;
 LPAR	:	'(' ;
 RPAR	:	')' ;
+
 
 ID	:	'a'..'z' ;
 NUM	:	'0'..'9'+ ;
